@@ -1,0 +1,12 @@
+D:\лабы и практики\8 семестр\КМЗИ\расчётное задание\RaschetZadanie\RaschetZadanie\obj\Debug\Cryptanalysis.csproj.AssemblyReference.cache
+D:\лабы и практики\8 семестр\КМЗИ\расчётное задание\RaschetZadanie\RaschetZadanie\obj\Debug\Cryptanalysis.csproj.SuggestedBindingRedirects.cache
+D:\лабы и практики\8 семестр\КМЗИ\расчётное задание\RaschetZadanie\RaschetZadanie\obj\Debug\Cryptanalysis.csproj.GenerateResource.cache
+D:\лабы и практики\8 семестр\КМЗИ\расчётное задание\RaschetZadanie\RaschetZadanie\obj\Debug\Cryptanalysis.csproj.CoreCompileInputs.cache
+D:\лабы и практики\8 семестр\КМЗИ\расчётное задание\RaschetZadanie\RaschetZadanie\obj\Debug\Cryptanalysis.AboutBox1.resources
+D:\лабы и практики\8 семестр\КМЗИ\расчётное задание\RaschetZadanie\RaschetZadanie\obj\Debug\Cryptanalysis.Form1.resources
+D:\лабы и практики\8 семестр\КМЗИ\расчётное задание\RaschetZadanie\RaschetZadanie\obj\Debug\Cryptanalysis.Properties.Resources.resources
+D:\лабы и практики\8 семестр\КМЗИ\расчётное задание\RaschetZadanie\RaschetZadanie\bin\Debug\Cryptanalysis.exe.config
+D:\лабы и практики\8 семестр\КМЗИ\расчётное задание\RaschetZadanie\RaschetZadanie\bin\Debug\Cryptanalysis.exe
+D:\лабы и практики\8 семестр\КМЗИ\расчётное задание\RaschetZadanie\RaschetZadanie\bin\Debug\Cryptanalysis.pdb
+D:\лабы и практики\8 семестр\КМЗИ\расчётное задание\RaschetZadanie\RaschetZadanie\obj\Debug\Cryptanalysis.exe
+D:\лабы и практики\8 семестр\КМЗИ\расчётное задание\RaschetZadanie\RaschetZadanie\obj\Debug\Cryptanalysis.pdb
